@@ -2,9 +2,9 @@
 
 namespace Lucvk\MyDemoPackage;
 
+use Lucvk\MyDemoPackage\Commands\MyDemoPackageCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Lucvk\MyDemoPackage\Commands\MyDemoPackageCommand;
 
 class MyDemoPackageServiceProvider extends PackageServiceProvider
 {

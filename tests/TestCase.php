@@ -3,8 +3,8 @@
 namespace Lucvk\MyDemoPackage\Tests;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use Orchestra\Testbench\TestCase as Orchestra;
 use Lucvk\MyDemoPackage\MyDemoPackageServiceProvider;
+use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra
 {
